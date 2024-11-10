@@ -10,4 +10,6 @@
 
 ## Notebook  
 Google Colaboratoryにて動作確認をしています。  
-- [plateaukit_example.ipynb](./plateaukit_example.ipynb)  
+- [plateaukit_example.ipynb](./plateaukit_example.ipynb)
+- GitHubとの連携がうまくいかないので、[こちら](https://drive.google.com/file/d/1ZaVW7PV7XgiqbQ4si3gefytwqI16cLP0/view?usp=sharing)にて共有しております。
+
